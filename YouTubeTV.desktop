@@ -1,1 +1,4 @@
-
+[Desktop Entry]
+Type=Applcation
+Name=YouTubeTV
+Exec=/usr/bin/google-chrome
